@@ -11,7 +11,7 @@ header{
     display: flex;
     justify-content: space-between;
     background-color: #00329e;
-    height: 15vh;
+    height: 100px;
     padding: 20px;
     border: 5px dashed white;
 }
