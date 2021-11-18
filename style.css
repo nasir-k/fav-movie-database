@@ -36,12 +36,13 @@ span{
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
     height: 150px;
-    width: 40rem;
-    left: 25%;
+    width: 50vw;
+    left: 25vw;
     margin: 2rem auto;
     max-width: 80%;
     padding: 3rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
+    overflow: hidden;
 }
 .card p{
     color: red;
